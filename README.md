@@ -1,4 +1,4 @@
-# Foodin analysis code
+# GFMSC-Foodins analysis code
 
 This repository contains the maintained analysis scripts supporting the
 manuscript **“Mining global food microbiomes unveils a rich reservoir of
