@@ -1,0 +1,57 @@
+DATASET_BINARY
+#Binary datasets are visualized as filled or empty symbols, depending on the value associated with a node (0 or 1).
+#Each node can have multiple associated values, and each value will be represented by a symbol (defined in FIELD_SHAPES) with corresponding color and label (from FIELD_COLORS and FIELD_LABELS).
+#Possible values (defined under DATA below) for each node are 1 (filled shapes), 0 (empty shapes) and -1 (completely omitted).
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+#SEPARATOR TAB
+#SEPARATOR SPACE
+SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,multi_food
+
+#dataset color (can be changed later)
+COLOR,#f7ac53
+
+#shapes for each field column; possible choices are
+#1: rectangle 
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+#6: checkmark
+
+FIELD_SHAPES,5
+
+#field labels
+FIELD_LABELS,star
+
+
+DATA
+999523,1
+1769876,1
+277305,1
+281543,1
+410459,1
+744947,1
+1607774,1
+79345,1
+209754,1
+481886,1
+546399,1
+1002216,1
+1216020,1
+1495452,1
+1665672,1
+1715349,1
+1768470,1
+1851816,1
+1956869,1
+2049834,1
+2196509,1
