@@ -33,7 +33,6 @@ data and maintained analysis workflows used in the manuscript. External tools
 and databases should be obtained from their respective providers as described
 in the module READMEs.
 
-## Citation
+## Contact
 
-Please cite the associated manuscript when using this code or the accompanying
-data.
+Kouyi Zhou, zhoukouyi@hust.edu.cn
